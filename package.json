@@ -1,0 +1,15 @@
+{
+    "id": "amazon-chime",
+    "name": "Amazon Chime",
+    "version": "1.0.0",
+    "description": "Amazon Chime",
+    "main": "index.js",
+    "author": "Patrick Do <patdohere@gmail.com>",
+    "license": "MIT",
+    "repository": "https://github.com/patdohere/recipe-amazon-chime",
+    "config": {
+        "serviceURL": "https://app.chime.aws/",
+        "hasNotificationSound": true,
+        "hasIndirectMessages": true
+    }
+}
